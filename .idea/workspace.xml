@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a05ea9a8-9565-4418-88ac-2e2ff51f39b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1no517ssNQuq7psCH1rzyWGgiak" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05ea9a8-9565-4418-88ac-2e2ff51f39b7" name="Default Changelist" comment="" />
+      <created>1612043385869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612043385869</updated>
+      <workItem from="1612043396115" duration="8107000" />
+      <workItem from="1612103387284" duration="746000" />
+      <workItem from="1612129674871" duration="17436000" />
+      <workItem from="1612209886053" duration="425000" />
+      <workItem from="1612267483994" duration="14621000" />
+      <workItem from="1612285918091" duration="1825000" />
+      <workItem from="1612291623491" duration="26266000" />
+      <workItem from="1612354551052" duration="4562000" />
+      <workItem from="1612361700363" duration="10650000" />
+      <workItem from="1612373817836" duration="976000" />
+      <workItem from="1612380733315" duration="447000" />
+      <workItem from="1612381201507" duration="185000" />
+      <workItem from="1612381404794" duration="898000" />
+      <workItem from="1612389859454" duration="517000" />
+      <workItem from="1612393427175" duration="536000" />
+      <workItem from="1612401867659" duration="340000" />
+      <workItem from="1612402720548" duration="39000" />
+      <workItem from="1612470374787" duration="1955000" />
+      <workItem from="1612481354301" duration="3526000" />
+      <workItem from="1612490449683" duration="1383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
